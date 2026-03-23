@@ -1,2 +1,2 @@
 # RE-MCDF
-IJCNN-2026: RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis
+This repository hosts the official source code and dataset for the paper: "RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis", published in the International Joint Conference on Neural Networks (IJCNN 2026).
