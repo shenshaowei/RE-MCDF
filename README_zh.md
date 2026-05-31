@@ -22,9 +22,7 @@ RE-MCDF/
 │   │       ├── config_main.py      # STROKE 数据集配置
 │   │       └── config_main_2.py   # XMEMRs 数据集配置
 │   ├── main/             # 主程序
-│   │   ├── main.py       # 主入口
-│   │   ├── main1.py      # 变体版本1（推荐使用）
-│   │   ├── main2.py      # 变体版本2
+│   │   ├── main1.py      # 主入口
 │   │   ├── doctor.py     # 医生 Agent
 │   │   ├── kg_func.py    # 知识图谱工具
 │   │   ├── retriever.py  # 检索器
@@ -39,7 +37,6 @@ RE-MCDF/
 │       └── ...
 ├── data/                  # 数据目录
 │   ├── STROKE/           # 脑血管病数据集
-│   ├── XMEMRs/           # 影像病历数据集
 │   ├── CMEMR/            # 完整病历数据集
 │   ├── KG_entities2id_merge.txt    # 知识图谱实体ID
 │   └── entity_type_map_merge.json   # 实体类型映射

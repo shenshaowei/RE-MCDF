@@ -20,11 +20,8 @@ RE-MCDF/
 │   ├── configs/           # Configuration files
 │   │   └── config_e2e/   # Main configuration
 │   │       ├── config_main.py      # STROKE dataset config
-│   │       └── config_main_2.py   # XMEMRs dataset config
 │   ├── main/             # Main program
-│   │   ├── main.py       # Main entry
-│   │   ├── main1.py      # Variant 1 (recommended)
-│   │   ├── main2.py      # Variant 2
+│   │   ├── main1.py      # Main entry
 │   │   ├── doctor.py     # Doctor Agent
 │   │   ├── kg_func.py    # Knowledge Graph utilities
 │   │   ├── retriever.py  # Retriever
