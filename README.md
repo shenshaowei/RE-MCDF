@@ -1,4 +1,4 @@
-# RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis
+# 🎉🎉 RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis
 
 > [Chinese](README_zh.md)
 
