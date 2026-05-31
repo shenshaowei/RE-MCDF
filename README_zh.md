@@ -2,7 +2,7 @@
 
 > [English](README.md)
 
-基于知识图谱增强大语言模型的电子病历诊断系统
+本仓库托管了论文 “RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis” 的官方源代码和数据集，该论文发表于 International Joint Conference on Neural Networks (IJCNN 2026)。
 
 ## 项目简介
 
