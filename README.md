@@ -4,7 +4,7 @@
 
 This repository hosts the official source code and dataset for the paper: **"RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis"**, published in the *International Joint Conference on Neural Networks (IJCNN 2026)*.
 
-##✨ Introduction
+## ✨Introduction
 
 RE-MCDF (Retrieval-Enhanced Multi-modal Clinical Diagnosis Framework) is a knowledge graph enhanced large language model system for electronic medical record diagnosis. This project integrates medical knowledge graphs, retrieval-augmented generation (RAG), and multi-modal information processing techniques for clinical diagnosis assistance.
 
